@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Phone Order Gateway for WooCommerce v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-10 23:00+0200\n"
+"PO-Revision-Date: 2014-10-10 23:01+0200\n"
+"Last-Translator: Yonatan Ganot <yonatan@scoloy.net>\n"
+"Language-Team: Scolpy <support@scolpy.net>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: C:/Users/Yonatan/Documents/WordPress Plugins Public/"
+"woocommerce-phone-order/\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:25 woocommerce-phone-order.php:68
+msgid "Phone Order"
+msgstr "הזמנה  טלפונית"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:26
+msgid "Have your customers pay over the phone"
+msgstr "אפשרו ללקוחות שלכם לשלם טלפונית"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:58
+msgid "Enable Phone Order"
+msgstr "הפעלת תשלום טלפוני"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:59
+msgid "Enable the Phone Order gateway in WooCommerce"
+msgstr "הפעלת תשלום טלפוני עבור WooCommerce"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:65
+msgid "Title"
+msgstr "כותרת"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:67
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "תיאור אפשרות התשלום שתוצג ללקוח בהזמנה שלכם."
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:72
+msgid "Description"
+msgstr "תיאור"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:74
+msgid "Payment method description that the customer will see on your website."
+msgstr "תיאור אפשרות התשלום שתוצג ללקוח באתר שלכם."
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:75
+msgid "Pay the order over the phone"
+msgstr "תשלום ההזמנה דרך הטלפון"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:79
+msgid "Instructions"
+msgstr "הוראות"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:81
+msgid "Instructions that will be added to the thank you page."
+msgstr "הוראות אשר יתווספו לדף התודה."
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:82
+msgid "We have received the order and we will contact you shortly"
+msgstr "קיבלנו את ההזמנה וניצור עימך קשר בהקדם האפשרי"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:86
+msgid "Enable for shipping methods"
+msgstr "אפשור עבור דרכי השילוח הבאות"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:91
+msgid ""
+"If phone order is only available for certain methods, set it up here. Leave "
+"blank to enable for all methods."
+msgstr ""
+"במידה ותשלום טלפוני זמין רק עבור סוגי שילוח מסויימים הגדירו אותם כאן. אחרת "
+"השאירו שדה זה ריק בכדי לאפשר עבור כל סוגי השילוח."
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:95
+msgid "Select shipping methods"
+msgstr "בחירת אפשרויות משלוח"
+
+# @ woocommerce_phone_order
+#: woocommerce-phone-order.php:165
+msgid "Payment to be made over the phone."
+msgstr "אפשרו ללקוחות שלכם לשלם טלפונית"
