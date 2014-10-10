@@ -2,7 +2,7 @@
 /*
 Plugin Name: Phone Order Gateway for WooCommerce
 Plugin URI:
-Description: This plugin adds Phone Order gateway to the WooCommerce plugin/
+Description: This plugin adds Phone Order gateway to the WooCommerce plugin.
 Version: 1.0
 Author: Yonatan Ganot
 Author URI: http://www.scolpy.net
